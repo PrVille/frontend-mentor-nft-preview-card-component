@@ -20,8 +20,8 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-solution-using-grid-and-flexbox-3yv2WjzqzU](https://www.frontendmentor.io/solutions/html-and-css-solution-using-grid-and-flexbox-3yv2WjzqzU)
-- Live Site URL: [https://frontendmentor-prville-qr-code-component.vercel.app/](https://frontendmentor-prville-qr-code-component.vercel.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/html-and-css-solution-using-flexbox-tgcd1HVPcC](https://www.frontendmentor.io/solutions/html-and-css-solution-using-flexbox-tgcd1HVPcC)
+- Live Site URL: [https://frontendmentor-nft-preview-card-component-pi.vercel.app/](https://frontendmentor-nft-preview-card-component-pi.vercel.app/)
 
 ## My process
 
