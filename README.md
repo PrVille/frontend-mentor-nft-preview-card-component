@@ -10,6 +10,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
+- [Acknowledgements](#acknowledgements)
 - [Author](#author)
 
 ## Overview
@@ -38,6 +39,10 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Useful resources
 
 - [Image Hover Overlay](https://www.w3schools.com/howto/howto_css_image_overlay.asp)
+
+## Acknowledgements
+
+- Challenge was provided by [Frontend Mentor](https://www.frontendmentor.io)
 
 ## Author
 
