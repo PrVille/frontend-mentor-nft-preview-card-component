@@ -139,13 +139,30 @@ p {
   color: var(--Cyan);
 }
 
-.attribution {
-  padding: 10px;
-  font-size: 11px;
+.footer {
+  padding: 20px;
   text-align: center;
+  font-size: 14px;
+}
+
+.footer-content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-content span {
+  margin: 5px;
   color: var(--White);
 }
 
-.attribution a {
-  color: var(--SoftBlue)
+.footer-content a {
+  color: var(--SoftBlue);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-content a:hover {
+  color: var(--Cyan);
 }
